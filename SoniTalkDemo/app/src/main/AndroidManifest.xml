@@ -24,7 +24,7 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait">
             <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
+                android:name="androidx.core.app.NavUtils.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
         <activity
@@ -33,7 +33,7 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait">
             <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
+                android:name="androidx.core.app.NavUtils.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
         <activity
@@ -42,7 +42,7 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait">
             <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
+                android:name="androidx.core.app.NavUtils.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
     </application>
